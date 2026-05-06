@@ -33,6 +33,8 @@ Btw when you right click Change (this can read and chanage site data) to (when y
 ## ⌨️ Controls
 * **Z**: Solve the problem on screen.
 * **X**: Look up a previous answer (Bookwork Check).
+* **H**: To Quickly Hide The SparxAI Box
+* **A** To Unhide SparxAI
 
 ---
 *Disclaimer: For legal reasons This tool is for educational purpose so Use responsibly.*
