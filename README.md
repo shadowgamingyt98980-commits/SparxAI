@@ -1,5 +1,5 @@
 # ⚡ SparxAI (Specialized Edition)
-
+© 2026 SparxAI™ All rights reserved.
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![Version](https://img.shields.io/badge/Version-3.0_Beta-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Chrome-orange.svg)
@@ -49,7 +49,12 @@ SparxAI dynamically adapts its interface based on where you are working:
 * **📗 SparxMathsAI:** Focuses on Bookwork Memory, Question Codes, and full solutions.
 * **📘 SparxScienceAI:** Optimized for speed; uses a horizontal `a) | b) | c)` layout to save space.
 
----
+## 📄 Credits
+* **Lead-Creator:** ShadowCanvas814
+* **Co-Creator:** Archive_Software
+
+  Disclaimer: This tool is for educational purposes Use responsibly or dont i do not care
 
 ## 📄 License
-This project is open-source. Feel free to contribute to the code on GitHub!
+This passion project is open-source you may update the code to your liking if needed to
+© 2026 SparxAI™ All rights reserved.
